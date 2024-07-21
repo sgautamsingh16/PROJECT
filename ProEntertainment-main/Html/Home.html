@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/style.css">
+    <title>ProEntertainment</title>
+    <script src="https://kit.fontawesome.com/91df980905.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header>
+        <img src="../Images/BRANDLOGO_1.png" alt="BrandLogo" height="10%" width="10%">
+
+        <div id="NavBar">
+            <a href="../Html/Home.html"> 
+              <!-- <i class="fa-solid fa-house"></i>  -->
+              Home</a>
+            <a href="../Html/About.html">AboutUs</a>
+            <a href="../Html/ContactUs.html"> 
+              <!-- <i class="fa-solid fa-phone"></i>  -->
+              ContactUs</a>
+            <a href="../Html/Services.html">OurServices</a>
+            <a href="../Html/CustomerReviews.html">CustomerReviews</a>
+            <a href="../Html/FAQ.html"> 
+              <!-- <i class="fa-solid fa-question"></i>  -->
+              FAQ</a>
+        </div>
+        <!-- <input type="text" placeholder="Search"> -->
+         <div>
+        <i class="fa-solid fa-magnifying-glass"></i>
+        <button id="location-setter" type="button">
+          <i class="fa-solid fa-location-dot"></i>
+          Gurgaon
+          <i class="fa-solid fa-angle-down"></i>
+        </button>
+        <!-- <div id="map"></div> -->
+        <button id="auth-btn" type="button">
+          <i class="fa-solid fa-user"></i>
+          Login
+        </button>
+      </div>
+    </header>
+    <hr class="hr">
+
+    <div class="slider">
+        <img
+          id="img-1"
+          src="../Images/slide1.PNG"
+          alt="Image 1"
+        />
+        <img
+          id="img-2"
+          src="https://images.bannerbear.com/direct/EjJywNMlJm5zmerB8a/requests/000/033/000/213/0Mn5r3E1XY0gmWDZQWPoD9kg7/9e42168a169264bb575a5ec10acd1c8942967845.jpg"
+          alt="Image 2"
+        />
+        <img
+          id="img-3"
+          src="https://images.bannerbear.com/direct/EjJywNMlJm5zmerB8a/requests/000/033/000/213/0Mn5r3E1XY0gmWDZQWPoD9kg7/9e42168a169264bb575a5ec10acd1c8942967845.jpg"
+          alt="Image 3"
+        />
+      </div>
+      <div class="navigation-button">
+        <!-- <i class="fa-solid fa-angle-left"></i>
+        <i class="fa-solid fa-angle-right"></i> -->
+        <span class="dot active" onclick="changeSlide(0)"></span>
+        <span class="dot" onclick="changeSlide(1)"></span>
+        <span class="dot" onclick="changeSlide(2)"></span>
+      </div>
+    
+    <main id="mainSection">
+        <!-- <div id="nowShowing">
+            <h2>Now Showing</h2>
+            <div id="nowShowingList">
+
+            </div>
+        </div> -->
+        <!-- <div class="Movie-Icon">
+            <img src="" alt="movie-poster">
+            <p>Name</p>
+            <button type="button">Book Tickets</button>
+        </div> -->
+
+        <!-- <div id="newRelease">
+          <h2>New Releases</h2>
+          <div id="newReleaseMovieList">
+
+          </div>
+      </div> -->
+    </main>
+
+    <div id="popupBtn">
+      <button id="open-button" class="open-button" onclick="openForm()">
+        <i class="fa-solid fa-angle-up"></i>
+      </button>
+      <div class="news-popup" id="myForm">
+        <div class="container">
+          <div class="card">
+            <div class="card__header">
+              <!-- <img src="https://i.pravatar.cc/40?img=12" alt="card__image" class="card__image" width="600"> -->
+            </div>
+            <div class="card__body">
+              <span class="tag tag-blue">Technology</span>
+              <h4>What's new in 2022 Tech</h4>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi perferendis molestiae non nemo doloribus. Doloremque, nihil! At ea atque quidem!</p>
+            </div>
+            <div class="card__footer">
+              <div class="user">
+                <img src="https://i.pravatar.cc/40?img=1" alt="user__image" class="user__image">
+                <div class="user__info">
+                  <h5>Jane Doe</h5>
+                  <small>2h ago</small>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+          <button id="close-button" type="button" class="btn cancel" onclick="closeForm()">
+            <i class="fa-solid fa-xmark"></i>
+          </button>
+        </form>
+      </div>
+    </div>
+
+    <footer>
+      <div id="footerContents">
+      <div id="footerSec1">
+        <div>
+        <img src="https://www.pvrcinemas.com/static/media/certificate1.49f8d51c71a183d28841.png" alt="">
+        <img src="https://www.pvrcinemas.com/static/media/certificate2.22ac0739f8e8e5be4641.png" alt="">
+        </div>
+
+        <div id="socialMediaLinks">
+          <a href="">
+            <i class="fa-brands fa-facebook"></i>
+          </a>
+
+          <a href="">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+
+          <a href="">
+            <i class="fa-brands fa-youtube"></i>
+          </a>
+
+          <a href="">
+            <i class="fa-brands fa-x-twitter"></i>
+          </a>
+
+          <a href="">
+            <i class="fa-brands fa-linkedin"></i>
+          </a>
+        </div>
+
+        <div id="downloadLinks">
+          <img src="https://www.pvrcinemas.com/static/media/Google%20Play.c5689d4f9b55e58a8076b39af11d5ab9.svg" alt="">
+          <img src="https://www.pvrcinemas.com/static/media/App%20Store.537219f079dde0437e2c8e0e3ec2162d.svg" alt="">
+        </div>
+
+      </div>
+
+      <div id="footerSec2">
+        <span>
+        author: ProEntertainment <br>
+        &copy; 2024 Copyright reserved <br>
+      </span>
+
+      <div>
+        <small> <a href="#sgautamsingh16@gmail.com"></a>mail</small>
+      </div>
+
+      </div>
+    </div>
+    </footer>
+</body>
+<script type="module" src="../js/main.js"></script>
+<script>(g=>{var h,a,k,p="The Google Maps JavaScript API",c="google",l="importLibrary",q="__ib__",m=document,b=window;b=b[c]||(b[c]={});var d=b.maps||(b.maps={}),r=new Set,e=new URLSearchParams,u=()=>h||(h=new Promise(async(f,n)=>{await (a=m.createElement("script"));e.set("libraries",[...r]+"");for(k in g)e.set(k.replace(/[A-Z]/g,t=>"_"+t[0].toLowerCase()),g[k]);e.set("callback",c+".maps."+q);a.src=`https://maps.${c}apis.com/maps/api/js?`+e;d[q]=f;a.onerror=()=>h=n(Error(p+" could not load."));a.nonce=m.querySelector("script[nonce]")?.nonce||"";m.head.append(a)}));d[l]?console.warn(p+" only loads once. Ignoring:",g):d[l]=(f,...n)=>r.add(f)&&u().then(()=>d[l](f,...n))})
+        ({key: "AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg", v: "weekly"});</script>
+</html>

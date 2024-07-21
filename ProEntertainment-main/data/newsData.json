@@ -1,0 +1,108 @@
+{
+    "articles": [
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Reuters",
+    "title": "Asia tech stocks skid on deepening Sino-US chip war - Reuters",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYXNpYS10ZWNoLXN0b2Nrcy1za2lkLWRlZXBlbmluZy1zaW5vLXVzLWNoaXAtd2FyLTIwMjQtMDctMTgv0gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-07-18T05:52:45Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Bloomberg",
+    "title": "Secretive China Agency Backtracks on Aggressive Policies After $1 Trillion Rout - Bloomberg",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5ibG9vbWJlcmcuY29tL25ld3MvYXJ0aWNsZXMvMjAyNC0wNy0xOC9jaGluYS1yZWd1bGF0b3Itb3ZlcnNlZWluZy1haS1vdmVyc2Vhcy1pcG9zLXJlbGF4ZXMtcG9saWNpZXMtdG8tcHJvbW90ZS1ncm93dGjSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-07-18T02:25:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "NJ Transit",
+    "title": "UPDATE: Important Rail Service Information – Effective Thursday, July 18 and Friday July 19, 2024 - NJ Transit",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lm5qdHJhbnNpdC5jb20vc2VydmljZS1hZHZpc29yeS8xNzgzOTE50gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-07-18T02:21:11Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "BBC.com",
+    "title": "Climate body CCC says cut electricity bills to boost heat pumps - BBC.com",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNTF5MHk3eXZsa2_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzUxeTB5N3l2bGtvLmFtcA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-07-18T01:44:58Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Reuters",
+    "title": "TSMC expects Q3 revenue to jump by as much as 34%, boosted by AI demand - Reuters",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvdHNtYy1zZXQtcmVwb3J0LXN0cm9uZy1wcm9maXQtc3RvY2stcHJlc3N1cmVkLWJ5LXRydW1wLWNvbW1lbnRzLTIwMjQtMDctMTgv0gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-07-18T00:29:28Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "The Wall Street Journal",
+    "title": "Deere Slashes Diversity Initiatives After Backlash From Conservative Activist - The Wall Street Journal",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lndzai5jb20vYnVzaW5lc3MvZGVlcmUtc2xhc2hlcy1kaXZlcnNpdHktaW5pdGlhdGl2ZXMtYWZ0ZXItYmFja2xhc2gtZnJvbS1jb25zZXJ2YXRpdmUtYWN0aXZpc3QtMjQ0MjQ1MDDSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-07-18T00:22:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Fox Business",
+    "title": "Mark Cuban slams Elon Musk over Trump support: 'Virtue of selfishness' - Fox Business",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9wb2xpdGljcy9tYXJrLWN1YmFuLXNsYW1zLWVsb24tbXVzay1vdmVyLXRydW1wLXN1cHBvcnQtdmlydHVlLXNlbGZpc2huZXNz0gFpaHR0cHM6Ly93d3cuZm94YnVzaW5lc3MuY29tL3BvbGl0aWNzL21hcmstY3ViYW4tc2xhbXMtZWxvbi1tdXNrLW92ZXItdHJ1bXAtc3VwcG9ydC12aXJ0dWUtc2VsZmlzaG5lc3MuYW1w?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-07-17T23:53:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "OilPrice.com",
+    "title": "Seasonal Demand and Production Cuts Drive Oil Rally - OilPrice.com",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vb2lscHJpY2UuY29tL0VuZXJneS9DcnVkZS1PaWwvU2Vhc29uYWwtRGVtYW5kLWFuZC1Qcm9kdWN0aW9uLUN1dHMtRHJpdmUtT2lsLVJhbGx5Lmh0bWzSAWJodHRwczovL29pbHByaWNlLmNvbS9FbmVyZ3kvQ3J1ZGUtT2lsL1NlYXNvbmFsLURlbWFuZC1hbmQtUHJvZHVjdGlvbi1DdXRzLURyaXZlLU9pbC1SYWxseS5hbXAuaHRtbA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-07-17T23:00:00Z",
+    "content": null
+    }
+]
+}
